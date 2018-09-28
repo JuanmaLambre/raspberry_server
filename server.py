@@ -50,6 +50,7 @@ def file_delete(filename):
 
 def main():
     app.run(host='0.0.0.0', port=4804)
+    pass
 
 
 if __name__ == "__main__":
